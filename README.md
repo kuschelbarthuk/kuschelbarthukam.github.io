@@ -1,9 +1,9 @@
 # kuschelbarthukam.github.io
 Under Development by : 
-<i>1. Altamash Beg (Developer)<\i>
-<i>2. Gyanesh Rai (Developer)<\i>
-<i>3. Priyansh Neel (Developer)<\i>
-<i>4. Priyansh Rai (Developer)<\i>
-<i>5. Yash Pandey (Developer)<\i>
+<i>1. Altamash Beg (Developer)
+<i>2. Gyanesh Rai (Developer)
+<i>3. Priyansh Neel (Developer)
+<i>4. Priyansh Rai (Developer)
+<i>5. Yash Pandey (Developer)
 
-<b> OFFICAL PAGE FOR WINPLAY <\b>
+<b> OFFICAL PAGE FOR WINPLAY
